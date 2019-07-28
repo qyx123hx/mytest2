@@ -13,4 +13,9 @@ public class HelloController {
         System.out.println("git");
         System.out.println("git");
     }
+    public void test01(){
+
+        int i=0;
+        System.out.println(i);
+    }
 }
