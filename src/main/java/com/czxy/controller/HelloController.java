@@ -12,6 +12,9 @@ public class HelloController {
         System.out.println("git");
         System.out.println("git");
         System.out.println("git");
+        System.out.println("修改了");
+        System.out.println("修改了");
+        System.out.println("修改了");
     }
     public void test01(){
 
